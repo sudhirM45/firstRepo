@@ -1,4 +1,4 @@
 # firstRepo
 This is my first Git Repository.
 <br>
-Author - Sudhir Mhamane
+Author - Sudhir Mhamane - (Software Engineer)
